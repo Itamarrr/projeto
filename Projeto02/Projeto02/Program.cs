@@ -36,11 +36,12 @@ namespace Projeto02
                 var funcionarioRepository = new FuncionarioRepository();
 
                 funcionarioRepository.ExportarJson(funcionario);
-            }
-            catch (Exception)
-            {
 
-                throw;
+                Console.WriteLine("Arquivo Json gravado com sucesso");
+            }
+            catch (Exception e) //Capitura de erro
+            {
+                Console.WriteLine(e.Message); //mensagem de erro
             }
         }
     }
