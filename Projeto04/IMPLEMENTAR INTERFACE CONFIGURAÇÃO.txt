@@ -1,0 +1,6 @@
+PARA IMPLEMENTAR UM CLASSE  NA INTERFACE NA ORDEM  NA MERMA ORDEM DA INTERFACE 
+TEMOS QUE IR NA ABA NO VISUALSTUDIO
+FERRAMENTAS - OPÇÕES - editor de texto - c#    ai expandi o c# e vai em avançado a opção que tem que marcar 
+o campo é 
+Ao inserir as propriedades, eventos e métodos, coloque-os:
+. no final 
