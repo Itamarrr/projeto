@@ -1,0 +1,78 @@
+﻿@model ProjetoMVC01.Presentation.Models.FuncionarioCadastroViewModel
+
+@{
+    ViewData["Title"] = "Cadastro";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h5>Formulário de cadastro de funcionário</h5>
+<p>Preencha os campos abaixo para cadastrar um funcionário.</p>
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+
+        @using (Html.BeginForm())
+        {
+            <label>Nome do funcionário:</label>
+            @Html.TextBoxFor(model => model.Nome,
+            new
+            {
+                @class = "form-control",
+                @placeholder = "Ex: João da Silva"
+            })
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.Nome)
+            </div>
+            <br />
+
+            <label>CPF:</label>
+            @Html.TextBoxFor(model => model.Cpf,
+            new
+            {
+                @class = "form-control",
+                @placeholder = "Ex: 99999999999"
+            })
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.Cpf)
+            </div>
+            <br />
+
+            <label>Matrícula:</label>
+            @Html.TextBoxFor(model => model.Matricula,
+            new
+            {
+                @class = "form-control",
+                @placeholder = "Ex: 99999"
+            })
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.Matricula)
+            </div>
+            <br />
+
+            <label>Data de Admissão:</label>
+            @Html.TextBoxFor(model => model.DataAdmissao,
+            new
+            {
+                @class = "form-control",
+                @type = "date"
+            })
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.DataAdmissao)
+            </div>
+            <br />
+
+            <label>Selecione a empresa:</label>
+            @Html.DropDownListFor(model => model.IdEmpresa, Model.ListagemDeEmpresas,
+                    "Escolha uma opção", new { @class = "form-select" })
+            <div class="text-danger">
+                @Html.ValidationMessageFor(model => model.IdEmpresa)
+            </div>
+            <br/>
+
+            <input type="submit" class="btn btn-success"
+                   value="Cadastrar Funcionário"/>
+        }
+
+    </div>
+</div>

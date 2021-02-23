@@ -1,0 +1,100 @@
+C:\Users\sergi\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\source\repos\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 27.01.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 01.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 03.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 05.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 08.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\sergi\OneDrive\Área de Trabalho\Aulas EAD\C# .NET - SQS Noite 01 - 2021\Aula 10.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Users\Samsung\Desktop\COTI - Aulas\2021 - C# WebDeveloper SQS Noite 01\Aula 13 - 19.02.21\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.deps.json
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.dll
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\bin\Debug\netcoreapp3.1\ProjetoMVC01.Domain.pdb
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csprojAssemblyReference.cache
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfoInputs.cache
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.AssemblyInfo.cs
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CoreCompileInputs.cache
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.csproj.CopyComplete
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.dll
+C:\Itamarc#Projeto1\projeto\ProjetoMVC01\ProjetoMVC01.Repository\obj\Debug\netcoreapp3.1\ProjetoMVC01.Repository.pdb

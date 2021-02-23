@@ -1,0 +1,115 @@
+﻿@model ProjetoMVC01.Presentation.Models.FuncionarioConsultaViewModel
+
+@{
+    ViewData["Title"] = "Consulta";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h5>Consulta de funcionários</h5>
+<p>Preencha os campos abaixo para pesquisar funcionários.</p>
+<hr />
+
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-md-4">
+            <label>Nome do Funcionário:</label>
+            @Html.TextBoxFor(model => model.Nome,
+                new
+                {
+                    @class = "form-control",
+                    @placeholder = "Ex: João da Silva"
+                })
+        </div>
+        <div class="col-md-2">
+            <label>CPF:</label>
+            @Html.TextBoxFor(model => model.Cpf,
+                new
+                {
+                    @class = "form-control",
+                    @placeholder = "Ex: 99999999999"
+                })
+        </div>
+        <div class="col-md-2">
+            <label>Matrícula:</label>
+            @Html.TextBoxFor(model => model.Matricula,
+                new
+                {
+                    @class = "form-control",
+                    @placeholder = "Ex: 99999"
+                })
+        </div>
+        <div class="col-md-2">
+            <label>Admitidos de:</label>
+            @Html.TextBoxFor(model => model.DataInicioAdmissao,
+                new
+                {
+                    @class = "form-control",
+                    @type = "date"
+                })
+        </div>
+        <div class="col-md-2">
+            <label>Admitidos até:</label>
+            @Html.TextBoxFor(model => model.DataFimAdmissao,
+                new
+                {
+                    @class = "form-control",
+                    @type = "date"
+                })
+        </div>
+    </div>
+
+    <br />
+
+    <input type="submit" value="Pesquisar Funcionários"
+           class="btn btn-success" />
+}
+
+<br />
+
+<!-- Exibindo o resultado da consulta de funcionarios -->
+@if (Model != null && Model.Funcionarios != null && Model.Funcionarios.Count > 0)
+{
+    <table id="tabela" class="table table-bordered table-striped table-hover table-light mt-4">
+        <thead>
+            <tr>
+                <th>Nome do Funcionário</th>
+                <th>CPF</th>
+                <th>Matrícula</th>
+                <th>Data de Admissão</th>
+                <th>Empresa</th>
+                <th>CNPJ</th>
+                <th width="180">Operações</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.Funcionarios)
+            {
+                <tr>
+                    <td>@item.Nome</td>
+                    <td>@item.Cpf</td>
+                    <td>@item.Matricula</td>
+                    <td>@item.DataAdmissao.ToString("dd/MM/yyyy")</td>
+                    <td>@item.RazaoSocial</td>
+                    <td>@item.Cnpj</td>
+                    <td>
+                        <a href="/Funcionario/Edicao?id=@item.IdFuncionario" 
+                           class="btn btn-primary btn-sm">
+                            Atualizar
+                        </a>
+                        <a href="/Funcionario/Exclusao?id=@item.IdFuncionario"
+                           onclick="return window.confirm('Deseja excluir o funcionário @item.Nome?')"
+                           class="btn btn-danger btn-sm">
+                            Excluir
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="7">Quantidade de funcionários: @Model.Funcionarios.Count</td>
+            </tr>
+        </tfoot>
+    </table>
+}
