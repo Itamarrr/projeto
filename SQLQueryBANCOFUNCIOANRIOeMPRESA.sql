@@ -1,4 +1,5 @@
-﻿Boa noite ana aqui é  Iatamar esse é o script do banco de dados 
+﻿--itamar
+Boa noite ana aqui é  Iatamar esse é o script do banco de dados 
 
 
 CREATE TABLE [dbo].[EMPRESA] (
