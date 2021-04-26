@@ -8,3 +8,6 @@ namespace Projeto05.Interfaces
   public interface IClienteRepository
       : IBaseRepository<Cliente, Guid>
   {
+
+  }
+}
