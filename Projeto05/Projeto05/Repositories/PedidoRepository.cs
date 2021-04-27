@@ -33,6 +33,14 @@ namespace Projeto05.Repositories
       }
     }
 
+    public void Inserir(Pedido pedido, List<ItemPedido> itens)
+
+    {
+      throw new NotImplementedException();
+
+    }
+
+
     public void Alterar(Pedido obj)
     {
       var query = @"
@@ -94,5 +102,7 @@ namespace Projeto05.Repositories
                 .FirstOrDefault();
       }
     }
+
+
   }
 }
