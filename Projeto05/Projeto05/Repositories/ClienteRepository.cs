@@ -3,6 +3,7 @@ using Projeto05.Entities;
 using Projeto05.Interfaces;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
@@ -20,15 +21,17 @@ namespace Projeto05.Repositories
 
     public void Inserir(Cliente obj)
     {
-      var query = @"
-                            INSERT INTO CLIENTE(IDCLIENTE, NOME, CPF)
-                            VALUES(@IdCliente, @Nome, @Cpf)
-                    ";
-
       using (var connection = new SqlConnection(connectionstring))
       {
         connection
-            .Execute(query, obj);
+            .Execute("SP_INSERIRCLIENTE",
+                new
+                {
+                  P_IDCLIENTE = obj.IdCliente,
+                  P_NOME = obj.Nome,
+                  P_CPF = obj.Cpf
+                },
+                commandType: CommandType.StoredProcedure);
       }
     }
 
@@ -95,3 +98,5 @@ namespace Projeto05.Repositories
     }
   }
 }
+
+
