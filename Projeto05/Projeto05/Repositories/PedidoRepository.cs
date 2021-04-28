@@ -1,4 +1,3 @@
-
 using Dapper;
 using Projeto05.Entities;
 using Projeto05.Interfaces;
@@ -34,12 +33,42 @@ namespace Projeto05.Repositories
     }
 
     public void Inserir(Pedido pedido, List<ItemPedido> itens)
-
     {
-      throw new NotImplementedException();
+      var queryPedido = @"
+                            INSERT INTO PEDIDO(IDPEDIDO, IDCLIENTE, DATAPEDIDO)
+                            VALUES(@IdPedido, @IdCliente, @DataPedido)
+                    ";
 
+      var queryItemPedido = @"
+                            INSERT INTO ITEMPEDIDO(IDITEMPEDIDO, IDPEDIDO, IDPRODUTO, QUANTIDADE)
+                            VALUES(@IdItemPedido, @IdPedido, @IdProduto, @Quantidade)
+                    ";
+
+      using (var connection = new SqlConnection(connectionstring))
+      {
+        connection.Open();
+
+        using (var transaction = connection.BeginTransaction())
+        {
+          try
+          {
+            connection.Execute(queryPedido, pedido, transaction);
+
+            foreach (var item in itens)
+            {
+              connection.Execute(queryItemPedido, item, transaction);
+            }
+
+            transaction.Commit();
+          }
+          catch (Exception e)
+          {
+            transaction.Rollback();
+            throw new Exception(e.Message);
+          }
+        }
+      }
     }
-
 
     public void Alterar(Pedido obj)
     {
@@ -102,7 +131,8 @@ namespace Projeto05.Repositories
                 .FirstOrDefault();
       }
     }
-
-
   }
 }
+
+
+
