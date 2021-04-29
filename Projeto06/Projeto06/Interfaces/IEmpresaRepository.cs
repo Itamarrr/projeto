@@ -1,10 +1,17 @@
-﻿using System;
+
+using Projeto06.Entities;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
 namespace Projeto06.Interfaces
 {
-  interface IEmpresaRepository
+  /// <summary>
+  /// Interface para repositorio de dados de Empresa
+  /// </summary>
+  public interface IEmpresaRepository : IBaseRepository<Empresa>
   {
+
   }
 }
+

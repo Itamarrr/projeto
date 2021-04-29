@@ -11,3 +11,5 @@ C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\obj\Debug\netcoreapp3.1\Pro
 C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\obj\Debug\netcoreapp3.1\Projeto06.dll
 C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\obj\Debug\netcoreapp3.1\Projeto06.pdb
 C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\obj\Debug\netcoreapp3.1\Projeto06.genruntimeconfig.cache
+C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\ProjetoCursoTurmaDois\projeto\Projeto06\Projeto06\obj\Debug\netcoreapp3.1\Projeto06.csproj.CopyComplete

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VCtkrthb/8qI1+Riv7T5P2eGA2/weyqjkyjLzijZTs3z2CV58ECjJtL4qO6TVYWB+BnlsEckdLZ90RR9ELD0ig==",
+  "dgSpecHash": "RWut7DZ6GPiIf7YkmnoCKwABD0cnG9a+nBJdvhcBCjKh1arT26TtM+MQZihzxvbckyPhEaY2ZkShLVtGJsqSVQ==",
   "success": true,
   "projectFilePath": "C:\\ProjetoCursoTurmaDois\\projeto\\Projeto06\\Projeto06\\Projeto06.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\itamar.oliveira\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

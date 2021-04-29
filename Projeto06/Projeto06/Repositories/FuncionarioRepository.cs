@@ -9,13 +9,13 @@ using System.Text;
 namespace Projeto06.Repositories
 {
   /// <summary>
-  /// Classe de repositório de dados para Empresa
+  /// Classe de repositório de dados para Funcionário
   /// </summary>
-  public class EmpresaRepository : IEmpresaRepository
+  public class FuncionarioRepository : IFuncionarioRepository
   {
-    public void Exportar(Empresa obj)
+    public void Exportar(Funcionario obj)
     {
-      string path = $"c:\\temp\\empresa_{obj.Id}.json";
+      string path = $"c:\\temp\\funcionario_{obj.Id}.json";
 
       var json = JsonConvert.SerializeObject(obj, Formatting.Indented);
 
